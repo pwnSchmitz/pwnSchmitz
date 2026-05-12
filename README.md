@@ -6,9 +6,15 @@
     <img src="https://skillicons.dev/icons?i=cpp,py,js,powershell,bash,git&size=15&perline=6" /><br>
     <img src="https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,pycharm" /><br>
     <img src="https://github-profile-trophy.vercel.app/?username=pwnSchmitz&theme=radical&no-bg=true&no-frame=true"><br>
-    ![Stats](https://github-readme-stats.vercel.app/api?username=pwnSchmitz&show_icons=true&theme=radical)
   </a>
 </p>
 
 
+
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
