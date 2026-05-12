@@ -36,41 +36,6 @@
 
 ---
 
-## 📊 Статистика GitHub пользователя pwnshmitz
-
-<table>
-  <tr>
-    <td>
-      <div align="left">
-        ⭐ Всего звёзд: <b>0</b><br>
-        📝 Всего коммитов (2026): <b>27</b><br>
-        🔀 Всего запросов изменений: <b>13</b><br>
-        💬 Всего вопросов: <b>0</b><br>
-        📦 Внесено вклада (за прошлый год): <b>1</b>
-      </div>
-    </td>
-    <td align="center">
-      <div style="width: 150px; height: 150px; border-radius: 50%; border: 8px solid #e94057; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
-        <span style="font-size: 48px; color: white; font-weight: bold;">A-</span>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 Достижения
-
-<div align="center">
-
-| Stars | Followers | Commits | Experience | Reviews | PullRequest | Issues | Repositories |
-|:-----:|:---------:|:-------:|:----------:|:-------:|:-----------:|:------:|:------------:|
-| 🏆<br>Super Stargazer<br><b>34.1kpt</b> | 🏆<br>Super Celebrity<br><b>5.5kpt</b> | 🌿<br>Hyper Committer<br><b>352pt</b> | 🌿<br>Experienced Dev<br><b>25pt</b> | 🌿<br>Active Reviewer<br><b>16pt</b> | 🥉<br>Middle Puller<br><b>13pt</b> | 🥈<br>First Issue<br><b>8pt</b> | 🥈<br>First Repository<br><b>6pt</b> |
-
-</div>
-
----
-
 ## 📈 График активности
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/Flowseal)
