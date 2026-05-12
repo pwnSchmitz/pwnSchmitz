@@ -1,1 +1,1 @@
-# <p align="center">🛠️ pwnSchmitz / Developer</p>
+# <p align="center">🛠️ pwnSchmitz / developer</p>
