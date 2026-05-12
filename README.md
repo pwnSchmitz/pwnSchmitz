@@ -1,1 +1,1 @@
-# <p align="center">🛠️ pwnSchmitz / опытный программист</p>
+# <p align="center">🛠️ pwnSchmitz / Developer</p>
