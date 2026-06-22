@@ -6,6 +6,13 @@
     <img src="https://skillicons.dev/icons?i=cpp,py,js,powershell,bash,git&size=15&perline=6" /><br>
     <img src="https://skillicons.dev/icons?i=obsidian,vscode,visualstudio,pycharm" /><br><br>
     <div align="center"><img src="https://streak-stats.demolab.com?user=pwnSchmitz&locale=en&mode=daily&theme=radical&hide_border=false&no-frame=true&no-bg=true&border_radius=5&order=3" height="130" alt="streak graph"/></div>
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 </p>
 </div>
